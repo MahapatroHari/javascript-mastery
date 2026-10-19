@@ -1,4 +1,4 @@
 console.log("10");
 console.log(10);
 console.log("10 + 20");
-console.log(10 + 20);cd
+console.log(10 + 20);
