@@ -3,7 +3,7 @@
 ## 01. JavaScript Basics
 - [x] Introduction to JavaScript
 - [x] Console and basic output
-- [ ] Variables — let, const, var
+- [x] Variables — let, const, var
 - [ ] Data types
 - [ ] Type conversion and coercion
 - [ ] Operators
