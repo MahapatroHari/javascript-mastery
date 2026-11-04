@@ -1,7 +1,6 @@
-# JavaScript Mastery 🚀
+# JavaScript Mastery
 
 ## 01. JavaScript Basics
-- [x] Introduction to JavaScript
 - [x] Console and basic output
 - [x] Variables — let, const, var
 - [ ] Data types
